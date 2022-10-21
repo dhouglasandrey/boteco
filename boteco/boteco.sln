@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boteco", "boteco\boteco.csproj", "{94613C50-F813-4E68-B665-D627155F3FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94613C50-F813-4E68-B665-D627155F3FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94613C50-F813-4E68-B665-D627155F3FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94613C50-F813-4E68-B665-D627155F3FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94613C50-F813-4E68-B665-D627155F3FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0A379A-3C04-4389-86F4-DEB8181E3DBD}
+	EndGlobalSection
+EndGlobal
